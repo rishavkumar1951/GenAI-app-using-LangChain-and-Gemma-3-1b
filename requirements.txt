@@ -4,3 +4,4 @@ ipykernel
 langchain-community
 langchain-text-splitters
 langchain-openai
+streamlit
